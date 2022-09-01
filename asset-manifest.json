@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.3c17a24c.css",
+    "main.js": "/memory-card/static/js/main.0bc4a95b.js",
+    "static/media/thanos.png": "/memory-card/static/media/thanos.08c4b56d0bf115db3239.png",
+    "static/media/deadpool.png": "/memory-card/static/media/deadpool.4bc93f83374a781e4ad4.png",
+    "static/media/spiderman.png": "/memory-card/static/media/spiderman.e30a753e3d98326ac288.png",
+    "static/media/achebe.png": "/memory-card/static/media/achebe.8ff111ead213e654b13a.png",
+    "static/media/Hulk.png": "/memory-card/static/media/Hulk.7a95ba0f2a2d6462090a.png",
+    "static/media/marvel.png": "/memory-card/static/media/marvel.b73a5b45b83312476f91.png",
+    "static/media/panther.png": "/memory-card/static/media/panther.f0aae2c9f967d16f35bc.png",
+    "static/media/groot.png": "/memory-card/static/media/groot.5978a2cbf0c580113cde.png",
+    "static/media/wolverine.png": "/memory-card/static/media/wolverine.08c86849339f891509de.png",
+    "static/media/cage.png": "/memory-card/static/media/cage.5eec78798be41bfeac07.png",
+    "static/media/america.png": "/memory-card/static/media/america.5ba0c9429e2d66a58762.png",
+    "static/media/ironman.png": "/memory-card/static/media/ironman.90c339f6c9005cde1fc1.png",
+    "index.html": "/memory-card/index.html",
+    "main.3c17a24c.css.map": "/memory-card/static/css/main.3c17a24c.css.map",
+    "main.0bc4a95b.js.map": "/memory-card/static/js/main.0bc4a95b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c17a24c.css",
+    "static/js/main.0bc4a95b.js"
+  ]
+}
